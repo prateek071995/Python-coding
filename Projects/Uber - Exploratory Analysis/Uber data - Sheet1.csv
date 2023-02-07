@@ -1,0 +1,1156 @@
+START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
+08-06-2012,12-06-2012,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
+24-07-2019,02-08-2019,Business,Fort Pierce,Fort Pierce,5,
+01-05-2018,02-05-2018,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
+25-08-2015,03-09-2015,Business,Fort Pierce,Fort Pierce,4.7,Meeting
+03-12-2011,05-12-2011,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit
+14-12-2010,15-12-2010,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain
+27-04-2012,04-05-2012,Business,West Palm Beach,Palm Beach,7.1,Meeting
+10-02-2012,17-02-2012,Business,Cary,Cary,0.8,Meeting
+18-07-2012,18-07-2012,Business,Cary,Morrisville,8.3,Meeting
+02-02-2020,09-02-2020,Business,Jamaica,New York,16.5,Customer Visit
+11-02-2013,16-02-2013,Business,New York,Queens,10.8,Meeting
+03-06-2018,05-06-2018,Business,Elmhurst,New York,7.5,Meeting
+08-09-2010,13-09-2010,Business,Midtown,East Harlem,6.2,Meeting
+08-01-2020,17-01-2020,Business,East Harlem,NoMad,6.4,Temporary Site
+19-06-2013,19-06-2013,Business,Flatiron District,Midtown,1.6,Errand/Supplies
+22-06-2013,22-06-2013,Business,Midtown,Midtown East,1.7,Meal/Entertain
+25-02-2013,27-02-2013,Business,Midtown East,Midtown,1.9,Meal/Entertain
+13-04-2014,13-04-2014,Business,Midtown,Hudson Square,1.9,Meal/Entertain
+04-04-2013,13-04-2013,Business,Hudson Square,Lower Manhattan,4,Meal/Entertain
+25-11-2017,28-11-2017,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies
+20-12-2019,26-12-2019,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit
+23-04-2015,24-04-2015,Business,Hell's Kitchen,Midtown,2,Errand/Supplies
+29-10-2013,03-11-2013,Business,New York,Queens County,15.1,Meeting
+07-07-2014,08-07-2014,Business,Downtown,Gulfton,11.2,Meeting
+06-04-2019,09-04-2019,Business,Gulfton,Downtown,11.8,Meeting
+20-01-2010,28-01-2010,Business,Houston,Houston,21.9,Customer Visit
+10-12-2011,15-12-2011,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies
+12-09-2016,21-09-2016,Business,Morrisville,Cary,8,Errand/Supplies
+31-01-2014,10-02-2014,Business,Cary,Durham,10.4,Meal/Entertain
+30-10-2020,02-11-2020,Business,Durham,Cary,10.4,Meal/Entertain
+04-12-2013,10-12-2013,Business,Cary,Cary,4.8,Meal/Entertain
+29-09-2014,30-09-2014,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain
+25-03-2015,28-03-2015,Business,Whitebridge,Lake Wellingborough,7.2,
+19-09-2011,26-09-2011,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site
+25-11-2018,30-11-2018,Business,Cary,Raleigh,17.1,Meeting
+07-09-2012,09-09-2012,Business,Fayetteville Street,Umstead,15.1,Meeting
+12-12-2012,20-12-2012,Business,Raleigh,Cary,40.2,Customer Visit
+01-12-2013,10-12-2013,Business,Cary,Cary,1.6,Errand/Supplies
+07-09-2019,09-09-2019,Business,Cary,Cary,2.4,Meal/Entertain
+04-10-2015,04-10-2015,Business,Cary,Cary,1,Meal/Entertain
+19-12-2016,26-12-2016,Business,Whitebridge,Hazelwood,2,Meal/Entertain
+09-12-2020,09-12-2020,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies
+25-03-2015,27-03-2015,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies
+14-03-2012,19-03-2012,Business,Cary,Cary,1.4,Errand/Supplies
+05-09-2010,13-09-2010,Business,Cary,Cary,0.5,Errand/Supplies
+08-04-2014,12-04-2014,Business,Cary,Cary,1.8,Meeting
+08-01-2010,15-01-2010,Business,Cary,Raleigh,18.7,Customer Visit
+02-10-2012,11-10-2012,Business,Fairmont,Meredith Townes,3.4,Customer Visit
+11-07-2011,14-07-2011,Business,Raleigh,Raleigh,2.7,Customer Visit
+12-10-2016,16-10-2016,Business,Raleigh,Cary,12.9,Customer Visit
+17-10-2010,20-10-2010,Business,Cary,Raleigh,19,Temporary Site
+30-12-2018,03-01-2019,Business,Meredith Townes,Leesville Hollow,14.7,Meeting
+08-03-2014,09-03-2014,Business,Raleigh,Cary,15.7,Meeting
+19-01-2013,19-01-2013,Business,Cary,Cary,4.6,Customer Visit
+01-03-2012,02-03-2012,Business,Cary,Cary,5.2,Meeting
+18-03-2012,21-03-2012,Business,Cary,Durham,10.4,Meeting
+25-07-2015,04-08-2015,Business,Durham,Cary,10.1,Meeting
+14-03-2018,20-03-2018,Business,Cary,Apex,5.8,Errand/Supplies
+15-03-2018,22-03-2018,Business,Apex,Cary,5.5,Meal/Entertain
+18-05-2016,27-05-2016,Business,Cary,Apex,5.7,Errand/Supplies
+08-11-2011,13-11-2011,Business,Apex,Cary,5.7,Customer Visit
+27-02-2010,28-02-2010,Business,Cary,Chapel Hill,19.4,Customer Visit
+01-08-2019,05-08-2019,Business,Chapel Hill,Cary,23.3,Customer Visit
+08-04-2019,12-04-2019,Business,Northwoods,Whitebridge,3.9,Meal/Entertain
+23-05-2013,29-05-2013,Business,Whitebridge,Williamsburg Manor,8.3,Meeting
+23-12-2017,02-01-2018,Business,Cary,Cary,6,Errand/Supplies
+20-11-2010,26-11-2010,Business,Cary,Cary,1.6,Errand/Supplies
+08-03-2013,08-03-2013,Business,Cary,Morrisville,5.2,Errand/Supplies
+17-11-2015,23-11-2015,Business,Morrisville,Cary,9.7,Meal/Entertain
+20-12-2017,22-12-2017,Business,Cary,Cary,1.6,Meal/Entertain
+07-11-2018,10-11-2018,Business,Cary,Cary,1.1,Meal/Entertain
+21-02-2012,22-02-2012,Business,Cary,Cary,1.6,Meal/Entertain
+22-04-2011,24-04-2011,Business,Whitebridge,Macgregor Downs,9,Meeting
+07-08-2016,17-08-2016,Business,Cary,Cary,7.7,Meeting
+11-09-2013,11-09-2013,Business,Cary,Durham,10.4,Meeting
+25-11-2017,05-12-2017,Business,Durham,Cary,10.4,Meeting
+01-06-2013,11-06-2013,Business,Cary,Raleigh,11.4,Between Offices
+20-04-2015,22-04-2015,Business,Raleigh,Cary,9,Errand/Supplies
+31-08-2017,02-09-2017,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain
+17-08-2019,19-08-2019,Business,Cary,Apex,5.6,Errand/Supplies
+08-02-2017,16-02-2017,Business,Apex,Cary,5.7,Customer Visit
+16-08-2011,22-08-2011,Business,Cary,Morrisville,6.1,Temporary Site
+03-09-2018,12-09-2018,Business,Morrisville,Cary,6.1,Meeting
+28-05-2018,06-06-2018,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain
+26-03-2015,03-04-2015,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain
+28-09-2020,07-10-2020,Personal,Whitebridge,Northwoods,5.3,
+21-07-2018,26-07-2018,Personal,Northwoods,Tanglewood,3,
+23-01-2014,26-01-2014,Personal,Tanglewood,Preston,5.1,
+24-10-2011,25-10-2011,Personal,Preston,Whitebridge,1.5,
+27-12-2014,28-12-2014,Business,Cary,Morrisville,6.1,
+15-01-2012,19-01-2012,Business,Morrisville,Cary,6.1,Meal/Entertain
+08-10-2012,14-10-2012,Business,Cary,Raleigh,17.3,Meal/Entertain
+30-08-2020,09-09-2020,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain
+03-08-2014,13-08-2014,Business,Raleigh,Morrisville,13.5,Temporary Site
+19-12-2016,29-12-2016,Business,Morrisville,Cary,6.1,Temporary Site
+13-03-2010,23-03-2010,Business,Cary,Durham,8.5,Temporary Site
+09-03-2019,18-03-2019,Business,Durham,Morrisville,2.6,Temporary Site
+08-06-2010,10-06-2010,Business,Morrisville,Raleigh,17,Customer Visit
+15-03-2017,24-03-2017,Business,Raleigh,Cary,18,Meeting
+11-01-2020,11-01-2020,Business,Cary,Morrisville,8.4,Meeting
+01-07-2011,03-07-2011,Business,Morrisville,Cary,11.5,Customer Visit
+01-09-2013,08-09-2013,Business,Cary,Morrisville,8.9,Meeting
+25-11-2010,25-11-2010,Personal,East Elmhurst,Jackson Heights,2.7,
+15-07-2017,20-07-2017,Personal,Jackson Heights,East Elmhurst,1.8,
+07-03-2011,11-03-2011,Business,East Elmhurst,New York,8.1,Meeting
+27-04-2018,04-05-2018,Business,Midtown,Midtown West,2,Meeting
+14-10-2017,15-10-2017,Business,New York,Long Island City,13,Meeting
+16-04-2010,21-04-2010,Business,Long Island City,Jamaica,13.9,Meeting
+24-09-2013,30-09-2013,Business,Katunayaka,Unknown Location,43.7,Customer Visit
+13-10-2019,20-10-2019,Business,Unknown Location,Colombo,14.1,
+09-12-2013,18-12-2013,Business,Colombo,Colombo,2.6,
+27-03-2019,27-03-2019,Business,Colombo,Colombo,4.5,
+25-07-2011,29-07-2011,Business,Colombo,Colombo,1.7,
+21-05-2013,23-05-2013,Business,Colombo,Colombo,1.8,Temporary Site
+11-02-2016,21-02-2016,Business,Colombo,Colombo,6,
+10-08-2019,20-08-2019,Business,Colombo,Nugegoda,1.1,Meal/Entertain
+21-08-2016,31-08-2016,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies
+29-04-2014,09-05-2014,Business,Unknown Location,Colombo,14.7,Temporary Site
+10-12-2017,12-12-2017,Business,Colombo,Colombo,1.7,Meal/Entertain
+19-02-2018,20-02-2018,Business,Colombo,Katunayaka,21.4,Temporary Site
+01-11-2015,09-11-2015,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies
+07-05-2011,09-05-2011,Business,Unknown Location,Unknown Location,23.5,Temporary Site
+27-03-2011,01-04-2011,Business,Unknown Location,Islamabad,12.7,Temporary Site
+03-03-2017,05-03-2017,Business,Islamabad,Unknown Location,6,Temporary Site
+16-06-2018,20-06-2018,Business,Unknown Location,Islamabad,5.2,Customer Visit
+17-03-2018,27-03-2018,Business,Islamabad,Unknown Location,10,Meeting
+19-01-2017,25-01-2017,Business,Unknown Location,Unknown Location,18.3,Meeting
+12-06-2020,12-06-2020,Business,Unknown Location,Unknown Location,11.2,Meeting
+20-11-2017,20-11-2017,Business,Unknown Location,Islamabad,7.6,Meeting
+26-05-2011,04-06-2011,Personal,Islamabad,Islamabad,1.5,
+08-03-2015,11-03-2015,Personal,Islamabad,Islamabad,1,
+06-12-2014,11-12-2014,Business,Islamabad,Unknown Location,7.3,Temporary Site
+17-03-2017,19-03-2017,Business,Unknown Location,Islamabad,3.5,
+15-05-2020,15-05-2020,Business,Islamabad,Islamabad,4.2,
+16-05-2019,24-05-2019,Personal,Islamabad,Unknown Location,13.6,
+20-02-2013,25-02-2013,Personal,Unknown Location,Unknown Location,2.5,
+25-04-2011,28-04-2011,Personal,Unknown Location,Islamabad,14.4,
+01-05-2019,01-05-2019,Personal,Islamabad,Islamabad,3,
+28-08-2010,30-08-2010,Personal,Islamabad,Islamabad,1.5,
+19-03-2012,21-03-2012,Business,Islamabad,R?walpindi,18.4,
+24-08-2014,03-09-2014,Business,R?walpindi,R?walpindi,23.1,Meeting
+08-07-2019,09-07-2019,Personal,R?walpindi,Unknown Location,16.5,
+18-06-2011,24-06-2011,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+16-02-2019,23-02-2019,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies
+10-04-2011,17-04-2011,Business,Unknown Location,Islamabad,14.5,
+07-11-2016,17-11-2016,Business,Unknown Location,Islamabad,2.4,Errand/Supplies
+02-02-2015,02-02-2015,Business,Islamabad,Islamabad,4.6,Errand/Supplies
+11-02-2018,13-02-2018,Business,Islamabad,Unknown Location,8.8,Meal/Entertain
+14-05-2017,14-05-2017,Business,Unknown Location,Unknown Location,8.3,Temporary Site
+13-10-2014,17-10-2014,Business,Unknown Location,Unknown Location,22.7,Temporary Site
+26-09-2015,27-09-2015,Business,Unknown Location,Islamabad,13,Temporary Site
+07-12-2012,10-12-2012,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site
+04-03-2011,08-03-2011,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain
+05-01-2018,12-01-2018,Business,Unknown Location,Unknown Location,9.7,
+12-08-2011,12-08-2011,Business,Unknown Location,R?walpindi,20,Meeting
+19-11-2019,24-11-2019,Business,Morrisville,Cary,8.1,Customer Visit
+25-11-2012,01-12-2012,Business,Whitebridge,Preston,1.5,
+13-07-2019,16-07-2019,Business,Preston,Whitebridge,1.7,Errand/Supplies
+22-08-2012,24-08-2012,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies
+13-03-2010,17-03-2010,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies
+08-09-2012,18-09-2012,Business,Whitebridge,Tanglewood,6,Meal/Entertain
+15-01-2012,16-01-2012,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain
+15-01-2010,22-01-2010,Business,Whitebridge,Westpark Place,6.3,
+01-07-2013,08-07-2013,Personal,Westpark Place,Whitebridge,1.7,
+09-07-2012,18-07-2012,Business,Cary,Durham,10.6,Meeting
+21-02-2011,28-02-2011,Business,Durham,Cary,9.9,Meeting
+25-08-2010,02-09-2010,Personal,Whitebridge,Westpark Place,1.9,
+28-06-2018,29-06-2018,Personal,Westpark Place,Hazelwood,4.2,
+30-07-2011,09-08-2011,Personal,Hazelwood,Whitebridge,2,
+27-04-2019,05-05-2019,Business,Whitebridge,Waverly Place,7.7,Meeting
+09-11-2016,18-11-2016,Business,Waverly Place,Whitebridge,6.8,Meeting
+28-04-2012,07-05-2012,Personal,Whitebridge,Westpark Place,2.1,
+11-11-2014,13-11-2014,Business,Cary,Apex,3.8,Meeting
+28-01-2011,29-01-2011,Business,Apex,Cary,5.6,Meeting
+12-02-2015,16-02-2015,Business,Whitebridge,Hazelwood,2.6,
+07-06-2012,17-06-2012,Business,Hazelwood,Whitebridge,6.6,Customer Visit
+11-12-2018,13-12-2018,Business,Whitebridge,Wayne Ridge,8,Meal/Entertain
+25-07-2015,30-07-2015,Business,Wayne Ridge,Whitebridge,8,Meeting
+28-06-2011,04-07-2011,Personal,Whitebridge,Westpark Place,2.2,
+13-04-2014,18-04-2014,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies
+01-10-2020,07-10-2020,Business,Whitebridge,Northwoods,5.2,Meal/Entertain
+17-11-2015,25-11-2015,Business,Cary,Raleigh,7.6,Customer Visit
+02-04-2020,07-04-2020,Business,Raleigh,Cary,17.3,Meeting
+13-08-2018,22-08-2018,Business,Cary,Durham,9.9,Meeting
+16-03-2014,24-03-2014,Business,Durham,Cary,9.9,Customer Visit
+12-10-2013,13-10-2013,Business,Cary,Durham,10.4,Meeting
+13-08-2019,13-08-2019,Business,Durham,Cary,10.9,Meeting
+15-07-2015,20-07-2015,Business,Cary,Raleigh,15.7,Customer Visit
+16-01-2011,17-01-2011,Business,Raleigh,Raleigh,4.9,Meal/Entertain
+16-01-2012,19-01-2012,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies
+29-07-2014,04-08-2014,Business,Raleigh,Cary,13.5,Meeting
+23-12-2011,01-01-2012,Business,Cary,Morrisville,1.9,Temporary Site
+11-02-2019,14-02-2019,Business,Morrisville,Cary,2,Meal/Entertain
+08-02-2015,11-02-2015,Business,Cary,Morrisville,6.5,Meal/Entertain
+02-03-2014,09-03-2014,Personal,Weston,Weston,4.2,
+26-03-2016,31-03-2016,Personal,Morrisville,Cary,3.5,
+27-03-2017,30-03-2017,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain
+12-09-2019,14-09-2019,Business,Cary,Morrisville,7.8,Meal/Entertain
+26-12-2011,01-01-2012,Business,Morrisville,Cary,3.9,Meal/Entertain
+07-04-2015,15-04-2015,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+07-02-2017,07-02-2017,Business,Cary,Raleigh,12.4,Customer Visit
+21-03-2019,22-03-2019,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit
+30-05-2018,30-05-2018,Business,Meredith Townes,Leesville Hollow,9.4,Meeting
+19-11-2020,20-11-2020,Business,Raleigh,Cary,11.9,Between Offices
+07-02-2016,17-02-2016,Business,Whitebridge,Waverly Place,7.2,Between Offices
+02-03-2010,04-03-2010,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain
+07-08-2020,08-08-2020,Personal,Whitebridge,Whitebridge,1.6,
+06-09-2017,12-09-2017,Business,Cary,Morrisville,8.4,Meeting
+25-12-2017,25-12-2017,Business,East Austin,West University,12.8,Meeting
+30-08-2011,08-09-2011,Business,West University,South Congress,2.3,
+14-10-2010,17-10-2010,Business,South Congress,Arts District,1.6,
+14-07-2016,17-07-2016,Business,The Drag,Congress Ave District,2,Meal/Entertain
+24-10-2018,01-11-2018,Business,Congress Ave District,Downtown,0.8,
+01-02-2014,04-02-2014,Business,Downtown,Red River District,1.2,
+01-09-2017,09-09-2017,Business,Red River District,Downtown,1,
+17-07-2010,24-07-2010,Business,South Congress,The Drag,2.1,
+01-10-2020,09-10-2020,Business,The Drag,South Congress,2.2,
+19-09-2020,24-09-2020,Personal,South Congress,The Drag,1.9,
+27-03-2012,04-04-2012,Business,The Drag,Convention Center District,5.7,Meal/Entertain
+15-01-2017,23-01-2017,Business,South Congress,North Austin,8.4,Meal/Entertain
+28-11-2012,08-12-2012,Business,Georgian Acres,The Drag,6.2,Meal/Entertain
+27-12-2014,02-01-2015,Business,The Drag,North Austin,10.5,Meal/Entertain
+28-08-2012,01-09-2012,Business,North Austin,Coxville,7.2,Meal/Entertain
+16-11-2010,24-11-2010,Business,Coxville,The Drag,12.5,
+15-12-2017,20-12-2017,Business,The Drag,South Congress,2,Errand/Supplies
+13-12-2020,19-12-2020,Business,South Congress,The Drag,2.7,
+06-05-2012,10-05-2012,Business,The Drag,Convention Center District,2,Meal/Entertain
+09-04-2016,12-04-2016,Business,Downtown,The Drag,2.8,Meal/Entertain
+11-04-2011,16-04-2011,Business,The Drag,Congress Ave District,1.7,Meal/Entertain
+19-04-2020,28-04-2020,Business,Convention Center District,West University,2,
+23-06-2013,01-07-2013,Business,West University,Congress Ave District,2.1,Meal/Entertain
+15-09-2015,17-09-2015,Personal,Downtown,The Drag,1.7,
+17-10-2020,20-10-2020,Business,Austin,Katy,136,Customer Visit
+30-04-2013,04-05-2013,Business,Katy,Houston,30.2,Meeting
+22-06-2014,25-06-2014,Business,Midtown,Alief,15.5,Meal/Entertain
+01-08-2013,03-08-2013,Personal,Houston,Houston,4.9,
+28-12-2018,29-12-2018,Personal,Houston,Houston,12.6,
+08-10-2011,12-10-2011,Personal,Sharpstown,Midtown,10.4,
+30-01-2019,03-02-2019,Business,Midtown,Midtown,1.1,Meal/Entertain
+24-01-2010,24-01-2010,Business,Midtown,Midtown,1.1,Meal/Entertain
+26-04-2018,06-05-2018,Business,Midtown,Sharpstown,13.2,Meeting
+06-07-2018,16-07-2018,Business,Sharpstown,Sharpstown,1,Errand/Supplies
+07-05-2011,16-05-2011,Business,Sharpstown,Midtown,9.2,Customer Visit
+02-04-2019,10-04-2019,Business,Midtown,Sharpstown,9.4,Meal/Entertain
+25-04-2016,27-04-2016,Business,Houston,Sugar Land,12,Customer Visit
+01-02-2011,04-02-2011,Business,Sugar Land,Houston,35.1,Customer Visit
+25-01-2019,01-02-2019,Business,Houston,Galveston,36.5,Meal/Entertain
+06-07-2020,07-07-2020,Business,Galveston,Port Bolivar,3.1,Meal/Entertain
+21-12-2012,23-12-2012,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies
+21-01-2019,31-01-2019,Business,Port Bolivar,Port Bolivar,1.2,
+03-05-2017,07-05-2017,Business,Port Bolivar,Galveston,7.5,Meeting
+14-10-2014,17-10-2014,Business,Galveston,Houston,57,Customer Visit
+20-05-2016,23-05-2016,Business,Midtown,Washington Avenue,5.9,Meeting
+04-02-2013,09-02-2013,Business,Washington Avenue,Midtown,6.2,Meeting
+17-09-2016,23-09-2016,Business,Midtown,Sharpstown,10.4,
+09-02-2014,19-02-2014,Personal,Sharpstown,Briar Meadow,1.2,
+05-02-2017,13-02-2017,Business,Briar Meadow,Midtown,9.6,Customer Visit
+17-08-2017,25-08-2017,Personal,Midtown,Downtown,1,
+31-03-2010,05-04-2010,Business,Downtown,Midtown,0.9,Meal/Entertain
+06-05-2020,07-05-2020,Business,Midtown,Sharpstown,8.8,
+19-11-2018,22-11-2018,Business,Sharpstown,Midtown,25.6,Meal/Entertain
+03-02-2020,13-02-2020,Business,Midtown,Greater Greenspoint,23,Meal/Entertain
+23-06-2010,26-06-2010,Personal,Morrisville,Cary,8.1,
+29-01-2010,04-02-2010,Personal,Whitebridge,Whitebridge,1.4,
+13-10-2019,19-10-2019,Personal,Whitebridge,Preston,1.7,
+01-05-2018,01-05-2018,Personal,Preston,Whitebridge,1.6,
+26-07-2017,28-07-2017,Personal,Whitebridge,Westpark Place,2,
+02-05-2015,03-05-2015,Business,Westpark Place,Whitebridge,2.2,
+21-02-2011,02-03-2011,Business,Cary,Latta,144,Customer Visit
+28-10-2020,28-10-2020,Business,Latta,Jacksonville,310.3,Customer Visit
+06-03-2013,09-03-2013,Business,Jacksonville,Kissimmee,201,Meeting
+11-06-2015,19-06-2015,Personal,Couples Glen,Isles of Buena Vista,6.7,
+06-07-2018,06-07-2018,Personal,Kissimmee,Orlando,8.8,
+15-01-2018,23-01-2018,Personal,Lake Reams,Lake Reams,1.2,
+25-08-2012,27-08-2012,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies
+05-10-2018,12-10-2018,Business,Orlando,Kissimmee,6.6,Meal/Entertain
+23-06-2012,03-07-2012,Business,Kissimmee,Orlando,6.1,Customer Visit
+22-03-2013,25-03-2013,Personal,Orlando,Orlando,6.9,
+08-10-2019,12-10-2019,Personal,Orlando,Kissimmee,7.3,
+25-03-2020,27-03-2020,Personal,Kissimmee,Orlando,3.6,
+18-03-2012,27-03-2012,Personal,Couples Glen,Vista East,27.2,
+03-09-2019,05-09-2019,Personal,Orlando,Kissimmee,25.7,
+23-06-2018,03-07-2018,Personal,Kissimmee,Orlando,13.6,
+09-09-2010,17-09-2010,Personal,Sand Lake Commons,Sky Lake,6.2,
+20-11-2020,28-11-2020,Personal,Sky Lake,Sand Lake Commons,6,
+03-02-2020,04-02-2020,Personal,Orlando,Kissimmee,13.8,
+01-10-2019,01-10-2019,Business,Orlando,Kissimmee,28.8,Meal/Entertain
+17-08-2014,19-08-2014,Business,Kissimmee,Orlando,16.1,Temporary Site
+14-02-2011,19-02-2011,Business,Orlando,Kissimmee,16.4,Meal/Entertain
+21-08-2015,24-08-2015,Business,Kissimmee,Kissimmee,11,Meeting
+23-05-2020,23-05-2020,Business,Kissimmee,Orlando,15.5,Customer Visit
+21-05-2011,28-05-2011,Business,Orlando,Kissimmee,20.3,Meeting
+31-12-2015,04-01-2016,Personal,Kissimmee,Kissimmee,0.7,
+11-03-2015,21-03-2015,Personal,Kissimmee,Kissimmee,5.5,
+13-03-2011,22-03-2011,Personal,Kissimmee,Kissimmee,5.1,
+27-03-2012,31-03-2012,Business,Kissimmee,Daytona Beach,77.3,Customer Visit
+07-03-2011,17-03-2011,Business,Daytona Beach,Jacksonville,80.5,Customer Visit
+06-12-2020,12-12-2020,Business,Jacksonville,Ridgeland,174.2,Customer Visit
+13-07-2011,20-07-2011,Business,Ridgeland,Florence,144,Meeting
+21-09-2019,26-09-2019,Business,Florence,Cary,159.3,Meeting
+30-06-2020,01-07-2020,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain
+22-01-2017,30-01-2017,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+27-12-2018,02-01-2019,Business,Cary,Morrisville,6.1,Meal/Entertain
+22-12-2020,26-12-2020,Business,Morrisville,Cary,6.1,Errand/Supplies
+08-04-2014,08-04-2014,Business,Cary,Durham,10.5,Meeting
+13-09-2019,18-09-2019,Business,Durham,Cary,8.7,Meal/Entertain
+26-09-2016,30-09-2016,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies
+18-08-2016,23-08-2016,Business,Cary,Raleigh,19.1,Meeting
+01-11-2018,09-11-2018,Business,Raleigh,Cary,18.6,Meeting
+12-03-2012,21-03-2012,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+10-04-2014,11-04-2014,Business,Cary,Raleigh,8.9,Meeting
+31-08-2011,01-09-2011,Business,Meredith,Cedar Hill,7.5,Customer Visit
+17-10-2016,17-10-2016,Business,Raleigh,Morrisville,15.9,Meeting
+25-09-2018,25-09-2018,Business,Morrisville,Cary,6.5,Meal/Entertain
+06-11-2013,08-11-2013,Business,Cary,Holly Springs,15.3,Temporary Site
+29-05-2014,01-06-2014,Business,Holly Springs,Cary,13.7,Temporary Site
+28-07-2018,31-07-2018,Business,Cary,Raleigh,11.9,Temporary Site
+29-06-2016,04-07-2016,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies
+22-12-2017,27-12-2017,Business,Raleigh,Cary,15.2,Meeting
+15-09-2010,15-09-2010,Business,Cary,Morrisville,6,Errand/Supplies
+03-09-2010,13-09-2010,Business,Morrisville,Cary,6.1,Meal/Entertain
+15-11-2014,24-11-2014,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain
+15-07-2013,15-07-2013,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+26-02-2020,29-02-2020,Business,Cary,Raleigh,13.6,Meeting
+26-04-2019,05-05-2019,Business,Raleigh,Cary,22.5,Meeting
+30-05-2011,31-05-2011,Business,Cary,Durham,10.4,Meeting
+20-10-2016,27-10-2016,Business,Durham,Cary,10,Meeting
+13-12-2018,19-12-2018,Business,Whitebridge,Tanglewood,6,Meal/Entertain
+07-03-2011,17-03-2011,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain
+27-07-2017,30-07-2017,Business,Cary,Morrisville,3.1,Errand/Supplies
+07-12-2015,12-12-2015,Business,Chessington,Chessington,1.9,Errand/Supplies
+04-10-2013,13-10-2013,Business,Morrisville,Cary,4.2,Between Offices
+22-06-2015,30-06-2015,Business,Whitebridge,Burtrose,4.9,Between Offices
+16-01-2017,19-01-2017,Business,Burtrose,Whitebridge,4.8,Between Offices
+03-10-2019,09-10-2019,Business,Cary,Raleigh,12.4,Customer Visit
+28-01-2020,29-01-2020,Business,Raleigh,Cary,32.8,Customer Visit
+22-11-2017,02-12-2017,Business,Morrisville,Cary,5.5,Customer Visit
+19-07-2013,29-07-2013,Business,Cary,Durham,9.9,Meeting
+26-05-2018,28-05-2018,Business,Durham,Cary,10,Meeting
+13-05-2020,15-05-2020,Business,Cary,Durham,14.2,Customer Visit
+13-03-2014,18-03-2014,Business,Durham,Cary,18.2,Meeting
+06-12-2014,13-12-2014,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain
+01-05-2018,07-05-2018,Business,Waverly Place,Whitebridge,6.8,
+04-11-2018,12-11-2018,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain
+18-01-2017,20-01-2017,Business,Westpark Place,Whitebridge,2.3,
+01-02-2015,04-02-2015,Business,Whitebridge,Tanglewood,6.2,Between Offices
+26-10-2017,01-11-2017,Business,Tanglewood,Parkway,7.5,Meeting
+27-09-2010,29-09-2010,Business,Parkway,Whitebridge,3.1,Errand/Supplies
+27-01-2010,30-01-2010,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies
+05-04-2017,15-04-2017,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain
+27-11-2016,28-11-2016,Business,Morrisville,Cary,2.5,Meal/Entertain
+20-09-2014,26-09-2014,Business,Cary,Morrisville,8.7,Meal/Entertain
+16-09-2013,24-09-2013,Business,Mcvan,Capitol One,14.5,Errand/Supplies
+23-10-2011,02-11-2011,Business,Capitol One,University District,4.5,Meal/Entertain
+04-06-2011,05-06-2011,Business,University District,Capitol One,5,Meal/Entertain
+28-03-2016,07-04-2016,Business,Seattle,Redmond,14.2,Meal/Entertain
+13-03-2013,17-03-2013,Business,Redmond,Bellevue,2.9,Errand/Supplies
+02-10-2012,02-10-2012,Business,Bellevue,Seattle,12.9,Meeting
+02-03-2012,11-03-2012,Business,Capitol One,Mcvan,14.4,Meeting
+20-10-2012,25-10-2012,Business,Chapel Hill,Morrisville,17,Meeting
+12-03-2018,17-03-2018,Business,Morrisville,Cary,7.9,Customer Visit
+27-01-2019,04-02-2019,Business,Cary,Morrisville,8.4,Customer Visit
+10-11-2020,16-11-2020,Business,San Francisco,Palo Alto,20.5,Between Offices
+03-08-2011,13-08-2011,Business,Palo Alto,Sunnyvale,9.8,Customer Visit
+25-09-2017,29-09-2017,Business,Sunnyvale,Newark,17.6,Customer Visit
+06-04-2010,07-04-2010,Business,Newark,Menlo Park,9.3,Customer Visit
+17-07-2012,22-07-2012,Business,Menlo Park,Newark,7.9,Customer Visit
+29-08-2013,06-09-2013,Business,Newark,San Francisco,25.6,Meeting
+08-12-2013,13-12-2013,Business,Morrisville,Cary,8.1,Meeting
+13-03-2016,16-03-2016,Business,Cary,Morrisville,3.1,Meal/Entertain
+04-01-2012,07-01-2012,Business,Morrisville,Cary,3.1,Meal/Entertain
+08-09-2020,18-09-2020,Business,Whitebridge,Preston,2.8,Errand/Supplies
+04-05-2017,13-05-2017,Business,Preston,Westpark Place,2.7,Errand/Supplies
+28-02-2013,28-02-2013,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies
+26-11-2017,26-11-2017,Business,Cary,Morrisville,8.4,Customer Visit
+15-05-2013,20-05-2013,Business,Morrisville,Raleigh,7.6,Customer Visit
+03-04-2010,10-04-2010,Business,Old City,Parkway Museums,2.9,Meal/Entertain
+20-03-2017,28-03-2017,Business,Old City,Hog Island,11.2,Meeting
+16-05-2014,17-05-2014,Business,Morrisville,Cary,8.2,Meal/Entertain
+02-07-2018,06-07-2018,Business,Cary,Morrisville,3,Meal/Entertain
+22-06-2013,02-07-2013,Business,Morrisville,Cary,2.5,Meal/Entertain
+17-04-2015,25-04-2015,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+11-01-2017,16-01-2017,Business,Savon Height,Whitebridge,3.6,Errand/Supplies
+20-04-2011,29-04-2011,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies
+05-03-2011,14-03-2011,Business,Savon Height,Kilarney Woods,1.2,
+15-07-2010,15-07-2010,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies
+19-07-2017,23-07-2017,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies
+25-03-2016,01-04-2016,Business,Cary,Morrisville,6.1,Meal/Entertain
+05-01-2014,11-01-2014,Business,Morrisville,Cary,11.3,Customer Visit
+30-04-2011,10-05-2011,Business,Cary,Raleigh,14.9,Meeting
+08-01-2019,08-01-2019,Business,Raleigh,Cary,14,Meeting
+13-08-2013,17-08-2013,Business,Westpark Place,Whitebridge,1.8,
+14-06-2012,24-06-2012,Business,Cary,Morrisville,6.7,Customer Visit
+12-05-2011,15-05-2011,Business,Morrisville,Cary,9.6,Meeting
+14-01-2010,23-01-2010,Business,Cary,Durham,10.4,Meeting
+05-10-2010,15-10-2010,Business,Durham,Cary,9.9,Meeting
+22-04-2020,23-04-2020,Business,Cary,Morrisville,6,Meal/Entertain
+16-02-2013,21-02-2013,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies
+05-05-2018,08-05-2018,Business,Morrisville,Cary,3.1,Errand/Supplies
+03-10-2017,06-10-2017,Business,Huntington Woods,Weston,1.7,Errand/Supplies
+23-03-2011,02-04-2011,Business,Morrisville,Cary,4,Between Offices
+27-02-2011,09-03-2011,Business,Whitebridge,Savon Height,7.8,Customer Visit
+25-12-2017,28-12-2017,Business,Cary,Morrisville,7.8,Customer Visit
+08-08-2011,12-08-2011,Business,Weston,Weston,3.8,Meal/Entertain
+29-11-2012,05-12-2012,Business,Morrisville,Cary,2.5,Meal/Entertain
+06-12-2015,07-12-2015,Business,Cary,Durham,9.9,Meeting
+23-03-2011,27-03-2011,Business,Durham,Cary,9.9,Meeting
+14-09-2016,16-09-2016,Business,Whitebridge,Hazelwood,3,Errand/Supplies
+13-11-2010,14-11-2010,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies
+02-03-2019,08-03-2019,Business,Cary,Apex,5.7,Meal/Entertain
+01-03-2016,06-03-2016,Business,Apex,Cary,7.2,Meal/Entertain
+22-12-2019,24-12-2019,Business,Cary,Durham,10.4,Meeting
+27-01-2010,31-01-2010,Business,Durham,Cary,9.9,Meeting
+08-12-2020,17-12-2020,Business,Cary,Durham,10.4,Meeting
+02-12-2019,06-12-2019,Business,Durham,Cary,9.9,Meeting
+28-07-2010,03-08-2010,Business,Cary,Morrisville,8.7,Meal/Entertain
+18-12-2012,23-12-2012,Business,Jamaica,New York,22.3,Errand/Supplies
+29-11-2015,04-12-2015,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain
+11-08-2010,15-08-2010,Business,Medical Centre,Tudor City,0.7,Errand/Supplies
+25-12-2016,25-12-2016,Business,Rose Hill,Soho,2.5,Meal/Entertain
+08-05-2018,17-05-2018,Business,Soho,Tribeca,0.5,Errand/Supplies
+01-03-2018,11-03-2018,Business,Tribeca,Financial District,0.9,Errand/Supplies
+27-12-2017,02-01-2018,Business,Financial District,Kips Bay,4.8,Errand/Supplies
+22-04-2018,29-04-2018,Business,New York,Jamaica,16.3,Meeting
+12-01-2010,17-01-2010,Business,Cary,Durham,10.4,Meeting
+10-11-2019,11-11-2019,Business,Durham,Cary,9.9,Meeting
+27-04-2017,05-05-2017,Business,Cary,Morrisville,3.7,Errand/Supplies
+12-08-2020,12-08-2020,Business,Morrisville,Cary,4.6,Meal/Entertain
+29-01-2018,05-02-2018,Business,Westpark Place,Whitebridge,1.7,
+16-02-2014,23-02-2014,Business,Cary,Durham,10.4,Meeting
+23-09-2020,30-09-2020,Business,Durham,Cary,9.9,Meeting
+12-04-2014,18-04-2014,Business,Cary,Morrisville,2.5,Meal/Entertain
+27-01-2017,01-02-2017,Business,Morrisville,Cary,4.3,Errand/Supplies
+29-10-2011,04-11-2011,Business,Parkway,Whitebridge,2.8,Errand/Supplies
+07-01-2017,15-01-2017,Business,Cary,Morrisville,8.4,Meal/Entertain
+17-07-2016,25-07-2016,Business,Oakland,Emeryville,13.2,Meeting
+19-07-2017,28-07-2017,Business,Emeryville,Berkeley,3.9,Meal/Entertain
+09-07-2013,11-07-2013,Business,Berkeley,Oakland,5.1,Meal/Entertain
+08-01-2017,13-01-2017,Business,Oakland,Unknown Location,5.2,Customer Visit
+20-03-2018,22-03-2018,Business,Emeryville,San Francisco,9.8,
+11-12-2013,17-12-2013,Business,San Francisco,Emeryville,11.6,Meeting
+21-06-2015,21-06-2015,Business,Emeryville,Oakland,5.1,Meeting
+19-04-2010,25-04-2010,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies
+16-03-2014,23-03-2014,Business,Kenner,New Orleans,12.4,Between Offices
+15-12-2018,25-12-2018,Business,CBD,Lower Garden District,1.9,Between Offices
+02-07-2011,10-07-2011,Business,Lower Garden District,Lakeview,6.4,Customer Visit
+26-06-2016,01-07-2016,Personal,Lakeview,Storyville,5.5,
+17-12-2014,21-12-2014,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain
+16-11-2014,19-11-2014,Business,New Orleans,Metairie,14.5,
+11-07-2017,18-07-2017,Business,Metairie,Kenner,2.7,
+03-02-2014,03-02-2014,Business,Kenner,New Orleans,15,
+24-02-2014,27-02-2014,Business,New Orleans,Kenner,12.9,
+20-02-2019,23-02-2019,Business,Kenner,New Orleans,13.6,
+02-01-2010,12-01-2010,Business,New Orleans,Kenner,12.2,
+18-06-2018,22-06-2018,Business,Morrisville,Cary,8.7,
+10-02-2011,13-02-2011,Business,Cary,Raleigh,6,
+28-06-2020,30-06-2020,Business,Raleigh,Cary,5.9,
+12-09-2018,14-09-2018,Business,Cary,Raleigh,19.3,
+12-03-2017,16-03-2017,Business,Raleigh,Cary,16.6,Meal/Entertain
+10-11-2020,17-11-2020,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain
+08-09-2011,12-09-2011,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain
+29-01-2018,30-01-2018,Business,Cary,Raleigh,8.6,Errand/Supplies
+10-12-2015,14-12-2015,Business,Raleigh,Morrisville,9,Errand/Supplies
+14-10-2012,16-10-2012,Business,Morrisville,Cary,3.1,Errand/Supplies
+02-03-2012,06-03-2012,Business,Cary,Morrisville,8.4,Temporary Site
+29-02-2020,03-03-2020,Business,Kenner,New Orleans,12.8,
+04-12-2014,13-12-2014,Business,CBD,Bywater,4.5,
+16-12-2012,23-12-2012,Business,New Orleans,Chalmette,11.8,Between Offices
+28-09-2020,28-09-2020,Business,Chalmette,Arabi,1.1,Errand/Supplies
+28-05-2019,04-06-2019,Business,Arabi,Metairie,17,Meal/Entertain
+30-08-2020,30-08-2020,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting
+15-04-2016,18-04-2016,Business,Metairie,New Orleans,15.5,Meeting
+01-08-2012,08-08-2012,Business,Storyville,Marigny,1.6,
+03-03-2014,07-03-2014,Business,Marigny,Storyville,1.5,
+16-07-2016,22-07-2016,Business,New Orleans,Kenner,12.6,Meeting
+16-02-2013,22-02-2013,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,
+03-07-2017,13-07-2017,Business,Kenner,Kenner,2.2,
+30-08-2015,31-08-2015,Business,Kenner,New Orleans,13,
+08-12-2019,08-12-2019,Business,New Orleans,Covington,46.9,
+12-10-2020,12-10-2020,Business,Covington,Covington,2.5,
+19-01-2010,26-01-2010,Business,Covington,Covington,8.6,
+28-07-2011,29-07-2011,Business,Covington,Covington,5.2,
+01-07-2015,05-07-2015,Business,Covington,Covington,7.6,
+12-09-2019,18-09-2019,Business,Covington,Covington,1.8,
+17-04-2013,22-04-2013,Business,Covington,Mandeville,4.7,
+03-08-2017,05-08-2017,Business,Mandeville,Mandeville,2.8,
+22-08-2012,25-08-2012,Business,Mandeville,Metairie,30,
+25-02-2015,04-03-2015,Business,Metairie,Kenner,4.4,
+06-06-2018,14-06-2018,Business,Jamestown Court,Jamestown Court,1,
+26-09-2017,04-10-2017,Business,Morrisville,Cary,8.2,Customer Visit
+06-06-2018,15-06-2018,Business,Cary,Durham,10.4,Meeting
+09-06-2015,15-06-2015,Business,Durham,Cary,9.9,Meeting
+16-06-2012,23-06-2012,Business,Durham,Cary,9.9,Meeting
+27-11-2017,06-12-2017,Business,Cary,Morrisville,7.3,
+16-06-2014,25-06-2014,Business,Morrisville,Cary,7.4,
+29-07-2019,03-08-2019,Business,Whitebridge,Westpark Place,1.6,
+26-12-2011,05-01-2012,Business,Westpark Place,Whitebridge,1.8,
+10-02-2015,11-02-2015,Business,Cary,Durham,10.4,Meeting
+30-04-2020,09-05-2020,Business,Durham,Cary,9.9,Meeting
+26-12-2019,04-01-2020,Business,Cary,Durham,9.9,Meeting
+29-08-2016,04-09-2016,Business,Durham,Cary,9.9,Meeting
+17-04-2011,21-04-2011,Business,Cary,Raleigh,13.3,Meeting
+22-08-2017,30-08-2017,Business,Raleigh,Cary,11.3,Meeting
+26-11-2017,27-11-2017,Business,Cary,Durham,10.5,Meeting
+22-05-2013,31-05-2013,Business,Durham,Cary,9.9,Meeting
+26-04-2014,01-05-2014,Business,Cary,Durham,10.1,Meeting
+28-03-2017,05-04-2017,Business,Durham,Cary,9.9,Meeting
+20-04-2019,30-04-2019,Business,Cary,Morrisville,3.1,Errand/Supplies
+24-02-2013,05-03-2013,Business,Morrisville,Cary,3.1,Errand/Supplies
+11-04-2013,16-04-2013,Business,Cary,Durham,9.9,Meeting
+26-12-2010,04-01-2011,Business,Durham,Cary,9.9,Meeting
+10-01-2017,11-01-2017,Business,Whitebridge,Summerwinds,8.8,Meeting
+09-12-2018,11-12-2018,Business,Summerwinds,Whitebridge,8.7,Temporary Site
+21-06-2013,24-06-2013,Business,Cary,Durham,11.8,Meeting
+19-08-2012,22-08-2012,Business,Parkwood,Parkwood,1.2,Errand/Supplies
+01-03-2013,08-03-2013,Business,Durham,Cary,9.9,Meeting
+28-07-2015,29-07-2015,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies
+06-03-2020,15-03-2020,Business,Cary,Durham,9.9,
+16-10-2012,19-10-2012,Business,Durham,Morrisville,8.6,
+25-07-2020,26-07-2020,Business,Morrisville,Cary,6.3,Meal/Entertain
+22-11-2014,26-11-2014,Business,Cary,Durham,9.9,Meeting
+14-08-2020,15-08-2020,Business,Durham,Cary,9.9,
+10-11-2017,20-11-2017,Business,Cary,Morrisville,3.3,Meal/Entertain
+26-09-2017,28-09-2017,Business,Morrisville,Cary,3.1,Customer Visit
+26-04-2013,03-05-2013,Business,Cary,Morrisville,7.9,Temporary Site
+27-07-2011,30-07-2011,Business,Morrisville,Cary,8.9,
+03-02-2014,06-02-2014,Business,Kenner,New Orleans,12.8,
+18-04-2020,27-04-2020,Business,CBD,Pontchartrain Beach,7.7,
+15-04-2015,16-04-2015,Business,Pontchartrain Beach,CBD,7,
+19-05-2020,20-05-2020,Business,New Orleans,Metairie,12.5,
+27-02-2011,01-03-2011,Business,Kenner,New Orleans,13.2,
+10-03-2013,20-03-2013,Business,New Orleans,Kenner,13,
+01-05-2020,11-05-2020,Business,Kenner,Metairie,4.9,
+04-03-2017,04-03-2017,Business,Metairie,New Orleans,8.5,
+01-05-2016,04-05-2016,Business,CBD,St Thomas,1.3,
+18-05-2016,28-05-2016,Business,St Thomas,CBD,1.8,
+06-03-2017,07-03-2017,Business,New Orleans,Kenner,13.6,
+19-03-2015,23-03-2015,Business,Kenner,New Orleans,13.4,
+17-09-2014,17-09-2014,Business,New Orleans,Kenner,12.3,
+24-11-2013,04-12-2013,Personal,Kenner,Kenner,1.4,
+07-02-2014,14-02-2014,Personal,Morrisville,Cary,8.7,
+09-05-2016,18-05-2016,Personal,Cary,Morrisville,23.5,
+07-04-2010,15-04-2010,Personal,Morrisville,Morrisville,2.2,
+06-06-2012,12-06-2012,Personal,Morrisville,Cary,4.4,
+30-07-2017,02-08-2017,Personal,Cary,Morrisville,3.3,
+11-11-2014,15-11-2014,Business,Morrisville,Morrisville,11.8,Errand/Supplies
+25-07-2015,29-07-2015,Business,Morrisville,Banner Elk,195.3,
+29-09-2018,09-10-2018,Personal,Banner Elk,Banner Elk,8.3,
+02-06-2016,10-06-2016,Personal,Banner Elk,Banner Elk,3.2,
+18-03-2018,22-03-2018,Personal,Banner Elk,Elk Park,22.4,
+07-11-2013,14-11-2013,Personal,Elk Park,Banner Elk,12.2,
+21-07-2018,21-07-2018,Personal,Banner Elk,Banner Elk,4.5,
+30-01-2010,02-02-2010,Personal,Banner Elk,Newland,28.1,
+20-12-2011,29-12-2011,Personal,Newland,Newland,3.8,
+01-10-2018,03-10-2018,Personal,Newland,Boone,41.9,
+31-10-2019,10-11-2019,Personal,Boone,Banner Elk,23.8,
+09-10-2010,12-10-2010,Personal,Banner Elk,Banner Elk,13,
+20-09-2018,29-09-2018,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies
+24-07-2018,26-07-2018,Personal,Banner Elk,Boone,15.1,Charity ($)
+06-06-2015,13-06-2015,Personal,Boone,Cary,180.2,Commute
+01-05-2017,04-05-2017,Personal,Cary,Morrisville,4.1,Moving
+06-11-2020,09-11-2020,Personal,Morrisville,Cary,6.1,Moving
+04-06-2012,11-06-2012,Personal,Northwoods,Preston,3.3,Moving
+26-02-2016,05-03-2016,Personal,Preston,Whitebridge,4.7,Moving
+26-06-2013,29-06-2013,Business,Cary,Apex,7.2,Meeting
+23-07-2016,30-07-2016,Business,Apex,Cary,5.5,Meal/Entertain
+07-04-2017,12-04-2017,Business,Cary,Morrisville,3.3,Meal/Entertain
+24-09-2011,29-09-2011,Business,Hazelwood,Weston,0.9,Errand/Supplies
+16-11-2017,18-11-2017,Business,Morrisville,Cary,3.8,Meal/Entertain
+24-05-2014,24-05-2014,Business,Whitebridge,Stonewater,6.4,Customer Visit
+23-09-2017,03-10-2017,Business,Stonewater,Lexington Park at Amberly,3,Meeting
+15-09-2013,23-09-2013,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain
+30-04-2015,08-05-2015,Business,Whitebridge,Chessington,3.9,Errand/Supplies
+14-09-2011,17-09-2011,Personal,Chessington,Whitebridge,4.8,
+10-06-2019,17-06-2019,Personal,Whitebridge,Edgehill Farms,2.8,
+24-12-2017,29-12-2017,Personal,Edgehill Farms,Preston,1.4,
+21-11-2014,28-11-2014,Personal,Preston,Whitebridge,1.4,
+19-11-2010,24-11-2010,Business,Whitebridge,Edgehill Farms,2.7,
+04-11-2019,11-11-2019,Business,Edgehill Farms,Burtrose,2.3,
+13-10-2012,20-10-2012,Business,Cary,Morrisville,3.7,
+25-07-2020,31-07-2020,Business,Morrisville,Cary,2.9,
+11-02-2014,17-02-2014,Business,Cary,Morrisville,3.8,
+18-08-2020,23-08-2020,Business,Morrisville,Cary,5.1,
+09-09-2018,19-09-2018,Business,Hazelwood,Lexington Park at Amberly,9.1,
+24-09-2011,28-09-2011,Business,Cary,Durham,8,
+22-02-2018,02-03-2018,Business,Durham,Cary,9.9,Meeting
+11-12-2016,20-12-2016,Business,Cary,Morrisville,6.1,Meal/Entertain
+16-04-2012,17-04-2012,Business,Morrisville,Cary,12.2,
+26-11-2013,01-12-2013,Business,Wayne Ridge,Whitebridge,8,
+13-11-2010,18-11-2010,Business,Cary,Morrisville,4,
+23-07-2020,25-07-2020,Business,Morrisville,Cary,9.5,
+18-05-2017,23-05-2017,Business,Cary,Morrisville,3,
+19-07-2011,28-07-2011,Business,Morrisville,Cary,6.3,
+15-05-2016,16-05-2016,Business,Cary,Durham,10.4,Meeting
+04-08-2018,13-08-2018,Business,Durham,Cary,9.9,Meeting
+16-01-2016,18-01-2016,Business,Whitebridge,Parkway,1.5,
+26-03-2015,01-04-2015,Business,Cary,Morrisville,4.9,
+14-08-2018,23-08-2018,Business,Morrisville,Cary,7.9,
+28-10-2017,30-10-2017,Business,Parkway,Whitebridge,1.7,
+18-11-2014,28-11-2014,Business,Whitebridge,Westpark Place,2.2,
+10-09-2020,13-09-2020,Business,Westpark Place,Whitebridge,2.1,
+05-11-2020,10-11-2020,Business,Cary,Morrisville,2.5,Meal/Entertain
+29-09-2020,04-10-2020,Business,Morrisville,Cary,2.5,Meal/Entertain
+30-08-2010,30-08-2010,Business,Cary,Morrisville,2.8,
+02-11-2020,03-11-2020,Business,Morrisville,Raleigh,14.7,
+14-11-2012,24-11-2012,Business,Raleigh,Morrisville,14.6,
+14-04-2015,20-04-2015,Business,Morrisville,Cary,2.3,
+27-10-2018,28-10-2018,Business,Whitebridge,Westpark Place,2.2,
+27-05-2011,28-05-2011,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain
+23-05-2020,23-05-2020,Business,Cary,Durham,14,
+14-02-2010,23-02-2010,Business,Durham,Cary,13.3,
+05-10-2012,08-10-2012,Business,Westpark Place,Whitebridge,1.8,
+09-09-2011,18-09-2011,Business,Whitebridge,Arlington Park at Amberly,6.2,
+07-12-2010,17-12-2010,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,
+31-07-2011,03-08-2011,Business,Lexington Park at Amberly,Westpark Place,1.9,
+22-11-2015,22-11-2015,Business,Cary,Apex,6.9,
+07-01-2013,13-01-2013,Business,Apex,Cary,4.6,
+16-09-2020,24-09-2020,Business,Whitebridge,Edgehill Farms,2.8,
+22-10-2018,30-10-2018,Business,Cary,Morrisville,9.1,
+05-03-2011,08-03-2011,Business,Morrisville,Cary,8.1,
+10-03-2014,17-03-2014,Business,Cary,Morrisville,8.4,Meeting
+21-05-2016,23-05-2016,Business,Arlington,Washington,4.9,
+01-11-2011,05-11-2011,Business,Kalorama Triangle,K Street,1,
+17-02-2019,27-02-2019,Business,K Street,Kalorama Triangle,1,
+29-02-2012,02-03-2012,Business,West End,Northwest Rectangle,2,
+19-05-2020,19-05-2020,Business,K Street,Kalorama Triangle,1.1,
+20-10-2010,21-10-2010,Business,Kalorama Triangle,Downtown,1.5,
+22-10-2017,26-10-2017,Business,Connecticut Avenue,Kalorama Triangle,1.3,
+26-05-2018,02-06-2018,Business,Kalorama Triangle,Columbia Heights,1.8,
+22-05-2016,31-05-2016,Business,Columbia Heights,Kalorama Triangle,1.5,
+16-08-2014,16-08-2014,Business,Washington,Arlington,6.6,
+06-11-2014,16-11-2014,Business,Morrisville,Cary,8,
+01-11-2018,11-11-2018,Business,Whitebridge,Edgehill Farms,2.7,
+24-10-2020,27-10-2020,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+16-02-2017,19-02-2017,Business,Cary,Morrisville,2.5,
+04-08-2014,10-08-2014,Business,Morrisville,Cary,2.5,Meal/Entertain
+16-06-2012,25-06-2012,Business,Whitebridge,Farmington Woods,5.2,
+13-11-2019,20-11-2019,Business,Farmington Woods,Edgehill Farms,4,
+27-05-2013,06-06-2013,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+20-08-2010,23-08-2010,Business,Cary,Morrisville,4.8,
+01-03-2010,01-03-2010,Business,Morrisville,Cary,3.2,Customer Visit
+19-11-2015,20-11-2015,Business,Whitebridge,Waverly Place,6.9,
+05-08-2018,06-08-2018,Business,Cary,Raleigh,14.9,
+12-12-2020,20-12-2020,Business,Raleigh,Cary,17.4,
+01-06-2016,03-06-2016,Business,Cary,Durham,12.9,
+02-08-2020,11-08-2020,Business,Durham,Apex,15.3,
+01-02-2010,06-02-2010,Business,Apex,Apex,1,
+26-09-2019,04-10-2019,Business,Apex,Cary,6,
+08-12-2014,14-12-2014,Business,Whitebridge,Heritage Pines,2.2,
+23-10-2013,25-10-2013,Business,Heritage Pines,Edgehill Farms,4.4,
+14-07-2020,14-07-2020,Business,Edgehill Farms,Whitebridge,2.8,
+11-05-2018,12-05-2018,Business,Cary,Wake Forest,31.7,
+14-10-2019,21-10-2019,Business,Wake Forest,Cary,31.9,
+28-12-2011,31-12-2011,Business,Whitebridge,Westpark Place,1.9,
+13-04-2015,15-04-2015,Business,Westpark Place,Whitebridge,1.8,
+29-03-2010,06-04-2010,Business,Cary,Morrisville,8.4,Meeting
+22-06-2014,30-06-2014,Business,R?walpindi,Unknown Location,15.6,
+17-06-2014,20-06-2014,Business,Unknown Location,Unknown Location,14.1,
+31-01-2012,02-02-2012,Business,Unknown Location,Unknown Location,15.7,
+01-05-2010,04-05-2010,Business,Unknown Location,Unknown Location,25.9,Temporary Site
+10-10-2018,17-10-2018,Business,Unknown Location,Unknown Location,7.9,
+05-07-2010,06-07-2010,Business,Unknown Location,Unknown Location,2.7,
+16-06-2018,21-06-2018,Business,Unknown Location,Unknown Location,5.5,
+14-04-2016,21-04-2016,Business,Unknown Location,Islamabad,5.7,
+02-10-2020,02-10-2020,Business,Islamabad,Islamabad,1.2,
+24-12-2011,28-12-2011,Business,Islamabad,Unknown Location,5.7,Temporary Site
+07-12-2010,09-12-2010,Business,Unknown Location,Unknown Location,16.2,
+04-01-2010,06-01-2010,Business,Unknown Location,Unknown Location,2.6,
+15-11-2015,21-11-2015,Business,Unknown Location,Unknown Location,12.1,
+11-01-2011,11-01-2011,Business,Unknown Location,R?walpindi,1.4,
+22-03-2018,24-03-2018,Business,R?walpindi,Islamabad,6.4,
+28-02-2020,01-03-2020,Business,Islamabad,Unknown Location,7.3,
+09-10-2020,09-10-2020,Business,Unknown Location,Unknown Location,5.3,
+26-05-2011,27-05-2011,Business,Unknown Location,Unknown Location,5.5,
+22-11-2013,26-11-2013,Business,Unknown Location,Unknown Location,7.7,Temporary Site
+22-08-2016,28-08-2016,Business,Unknown Location,Unknown Location,7.6,Temporary Site
+30-05-2014,03-06-2014,Business,Unknown Location,Noorpur Shahan,7.6,
+13-07-2011,18-07-2011,Business,Noorpur Shahan,Islamabad,3.3,
+14-08-2012,17-08-2012,Business,Islamabad,R?walpindi,6.5,
+28-07-2014,03-08-2014,Business,R?walpindi,Unknown Location,2,
+13-03-2012,13-03-2012,Business,Unknown Location,Islamabad,5.7,
+14-11-2019,21-11-2019,Business,Islamabad,Islamabad,3.2,
+27-06-2018,30-06-2018,Business,Islamabad,Unknown Location,12.5,
+10-04-2013,13-04-2013,Business,Unknown Location,Unknown Location,7.6,Airport/Travel
+06-08-2015,16-08-2015,Business,Unknown Location,Unknown Location,7.7,
+13-10-2017,23-10-2017,Business,Unknown Location,Islamabad,12.2,
+28-12-2014,03-01-2015,Business,Islamabad,Islamabad,1.4,
+03-08-2015,11-08-2015,Business,Islamabad,Unknown Location,20.2,
+03-08-2011,07-08-2011,Business,Unknown Location,Islamabad,9.8,
+09-05-2015,10-05-2015,Business,Islamabad,Unknown Location,6.3,
+16-08-2019,20-08-2019,Business,Unknown Location,Islamabad,4.9,
+16-06-2017,22-06-2017,Business,Islamabad,Islamabad,1.5,
+18-03-2011,25-03-2011,Business,Islamabad,Unknown Location,10.9,
+16-07-2020,22-07-2020,Business,Unknown Location,Unknown Location,19,
+13-06-2017,18-06-2017,Business,Unknown Location,Unknown Location,19,
+20-02-2014,22-02-2014,Business,Unknown Location,R?walpindi,7.9,
+22-06-2011,28-06-2011,Business,R?walpindi,R?walpindi,4.1,
+27-07-2013,04-08-2013,Business,R?walpindi,Unknown Location,18.7,
+22-10-2012,30-10-2012,Business,Unknown Location,Noorpur Shahan,8.7,
+07-12-2013,11-12-2013,Business,Noorpur Shahan,Unknown Location,7.5,
+29-02-2012,06-03-2012,Business,Unknown Location,Noorpur Shahan,7.7,
+05-10-2014,14-10-2014,Business,Noorpur Shahan,Islamabad,4.4,
+18-10-2012,22-10-2012,Business,Islamabad,Unknown Location,5,
+15-01-2013,19-01-2013,Business,Unknown Location,Unknown Location,1.9,
+02-03-2016,11-03-2016,Business,Unknown Location,Unknown Location,7.9,
+07-08-2013,12-08-2013,Business,Unknown Location,Unknown Location,17.7,
+10-11-2016,19-11-2016,Business,Unknown Location,Unknown Location,25.2,
+08-04-2017,13-04-2017,Business,Unknown Location,Unknown Location,96.2,
+25-04-2014,01-05-2014,Business,Unknown Location,Unknown Location,35,
+13-11-2014,17-11-2014,Business,Unknown Location,Unknown Location,5.5,
+19-11-2014,23-11-2014,Business,Unknown Location,Unknown Location,50.4,
+20-04-2014,21-04-2014,Business,Unknown Location,Lahore,9.2,
+17-03-2015,20-03-2015,Business,Lahore,Unknown Location,7.3,
+22-01-2013,29-01-2013,Business,Unknown Location,Unknown Location,5,
+10-12-2015,18-12-2015,Business,Unknown Location,Unknown Location,3.8,
+02-02-2011,06-02-2011,Business,Unknown Location,Lahore,3.9,
+18-11-2020,23-11-2020,Business,Lahore,Lahore,7.4,
+05-10-2017,07-10-2017,Business,Lahore,Lahore,1.5,
+22-11-2012,25-11-2012,Business,Lahore,Unknown Location,7.9,
+04-07-2011,04-07-2011,Business,Unknown Location,Lahore,2.9,
+02-11-2019,12-11-2019,Business,Lahore,Lahore,3.4,
+02-12-2018,09-12-2018,Business,Lahore,Lahore,3.8,
+02-11-2019,10-11-2019,Business,Lahore,Unknown Location,5.9,
+25-05-2016,29-05-2016,Business,Unknown Location,Lahore,9.6,
+11-09-2018,15-09-2018,Business,Lahore,Lahore,7,
+19-08-2013,21-08-2013,Business,Lahore,Lahore,0.9,
+14-06-2017,20-06-2017,Business,Lahore,Unknown Location,86.6,
+17-09-2016,20-09-2016,Business,Unknown Location,Unknown Location,156.9,
+03-04-2013,10-04-2013,Business,Unknown Location,Noorpur Shahan,10.1,
+25-08-2013,29-08-2013,Business,Noorpur Shahan,Islamabad,6.2,
+04-04-2018,14-04-2018,Business,Islamabad,Islamabad,5.3,
+08-05-2016,10-05-2016,Business,Islamabad,Unknown Location,12.1,
+23-03-2020,28-03-2020,Business,Unknown Location,Islamabad,10.8,
+25-11-2019,25-11-2019,Business,Islamabad,Islamabad,4.3,
+14-02-2013,17-02-2013,Business,Islamabad,Islamabad,2.5,
+12-12-2011,20-12-2011,Business,Islamabad,Unknown Location,5.7,Temporary Site
+20-12-2012,20-12-2012,Business,Unknown Location,Islamabad,2.8,
+27-12-2013,04-01-2014,Business,Islamabad,Unknown Location,4,
+01-06-2015,03-06-2015,Business,Unknown Location,Islamabad,5.5,
+13-11-2020,21-11-2020,Business,Islamabad,Islamabad,2.6,
+28-03-2020,03-04-2020,Business,Unknown Location,Unknown Location,2.1,
+14-10-2018,18-10-2018,Business,Unknown Location,Islamabad,8.8,
+28-05-2011,01-06-2011,Business,Islamabad,Islamabad,4.4,
+25-05-2014,29-05-2014,Business,Islamabad,Unknown Location,5.3,
+07-09-2014,11-09-2014,Business,Unknown Location,Unknown Location,13,
+17-06-2010,19-06-2010,Business,Unknown Location,Islamabad,13,
+06-03-2020,09-03-2020,Business,Islamabad,Unknown Location,10.6,
+01-07-2011,08-07-2011,Business,Unknown Location,Unknown Location,2.2,
+28-04-2020,03-05-2020,Business,Unknown Location,Islamabad,9.2,
+18-04-2015,20-04-2015,Business,Unknown Location,Unknown Location,12.9,
+05-08-2017,07-08-2017,Business,Unknown Location,R?walpindi,17.2,
+24-04-2011,26-04-2011,Business,Unknown Location,Unknown Location,69.1,
+23-07-2020,01-08-2020,Business,Unknown Location,Unknown Location,2.8,
+22-05-2011,24-05-2011,Business,Unknown Location,Unknown Location,8.6,
+04-02-2017,12-02-2017,Business,Unknown Location,Unknown Location,9.8,
+28-05-2016,07-06-2016,Business,Unknown Location,Unknown Location,3.6,
+01-04-2012,09-04-2012,Business,Unknown Location,Unknown Location,1.7,
+15-03-2014,23-03-2014,Business,Unknown Location,Unknown Location,11.5,
+03-04-2010,07-04-2010,Business,Unknown Location,Unknown Location,0.7,
+27-11-2012,30-11-2012,Business,Unknown Location,Unknown Location,0.7,
+08-11-2010,16-11-2010,Business,Unknown Location,Unknown Location,0.9,
+11-02-2012,21-02-2012,Business,Unknown Location,Unknown Location,1.6,
+30-04-2011,08-05-2011,Business,Unknown Location,Unknown Location,9.4,
+27-06-2019,29-06-2019,Business,R?walpindi,Unknown Location,18.2,
+30-05-2015,02-06-2015,Business,Unknown Location,Islamabad,10.5,
+24-01-2015,30-01-2015,Business,Islamabad,Unknown Location,5.7,
+17-08-2013,18-08-2013,Business,Unknown Location,Unknown Location,18,
+01-07-2016,05-07-2016,Business,Unknown Location,Islamabad,18.3,
+19-03-2019,25-03-2019,Business,Islamabad,Unknown Location,16.5,
+08-06-2012,15-06-2012,Business,Unknown Location,R?walpindi,9.6,
+11-03-2019,11-03-2019,Business,Karachi,Karachi,2.9,
+27-07-2013,04-08-2013,Business,Karachi,Unknown Location,8.2,
+03-05-2013,09-05-2013,Business,Unknown Location,Unknown Location,2.4,
+11-06-2018,21-06-2018,Business,Unknown Location,Unknown Location,5.8,
+26-06-2012,30-06-2012,Business,Lahore,Lahore,9.8,
+05-10-2015,08-10-2015,Business,Lahore,Unknown Location,7.3,
+20-11-2012,20-11-2012,Business,Unknown Location,Unknown Location,195.6,
+23-02-2019,24-02-2019,Business,Islamabad,Unknown Location,20.5,
+09-08-2020,10-08-2020,Business,Unknown Location,Islamabad,12.6,
+15-07-2014,19-07-2014,Business,Islamabad,Islamabad,37.7,
+16-05-2010,26-05-2010,Business,Islamabad,Unknown Location,16.7,
+10-10-2013,11-10-2013,Business,Unknown Location,Islamabad,10.5,
+12-06-2018,13-06-2018,Business,Islamabad,Islamabad,2.8,
+22-02-2019,03-03-2019,Business,Islamabad,Islamabad,1.6,
+31-07-2020,06-08-2020,Business,Islamabad,Unknown Location,12.7,
+19-09-2018,24-09-2018,Business,Unknown Location,Unknown Location,28.6,
+22-07-2016,29-07-2016,Business,Unknown Location,Unknown Location,15.1,
+31-05-2011,02-06-2011,Business,Unknown Location,R?walpindi,17.9,
+25-10-2020,30-10-2020,Business,R?walpindi,Unknown Location,112.6,
+03-02-2018,08-02-2018,Business,Unknown Location,Unknown Location,18.4,
+21-07-2017,28-07-2017,Business,Unknown Location,Unknown Location,13.8,
+01-07-2015,03-07-2015,Business,Unknown Location,Lahore,33.2,
+17-03-2019,21-03-2019,Business,Lahore,Lahore,2.6,
+02-04-2014,10-04-2014,Business,Lahore,Unknown Location,5.8,
+23-04-2014,27-04-2014,Business,Unknown Location,Lahore,8.3,
+01-07-2019,08-07-2019,Business,Lahore,Lahore,2.4,
+14-05-2020,21-05-2020,Business,Lahore,Lahore,3.1,
+21-02-2020,21-02-2020,Business,Lahore,Lahore,6.1,
+30-08-2017,09-09-2017,Business,Karachi,Karachi,3.6,
+17-01-2018,22-01-2018,Business,Karachi,Unknown Location,8,
+20-01-2011,26-01-2011,Business,Unknown Location,Unknown Location,7.7,Temporary Site
+10-02-2016,17-02-2016,Business,Islamabad,Islamabad,1.7,
+28-01-2019,06-02-2019,Business,Islamabad,Unknown Location,9.5,
+19-11-2018,22-11-2018,Business,Unknown Location,R?walpindi,17.1,Meeting
+03-08-2015,03-08-2015,Business,R?walpindi,Unknown Location,18.4,
+26-02-2019,06-03-2019,Business,Unknown Location,Islamabad,9.8,
+19-07-2015,25-07-2015,Business,Islamabad,Islamabad,1,
+01-08-2013,04-08-2013,Business,Islamabad,Islamabad,0.7,
+12-09-2013,17-09-2013,Business,Islamabad,Islamabad,2.3,
+20-10-2020,22-10-2020,Business,Islamabad,Unknown Location,10.9,
+16-11-2011,19-11-2011,Business,Unknown Location,R?walpindi,12.7,
+10-04-2015,20-04-2015,Business,R?walpindi,Unknown Location,12.4,
+17-01-2010,26-01-2010,Business,Unknown Location,Unknown Location,3.8,
+12-01-2019,22-01-2019,Business,Unknown Location,R?walpindi,17,Meeting
+26-08-2011,30-08-2011,Business,Morrisville,Morrisville,6.2,
+05-08-2019,05-08-2019,Business,Morrisville,Cary,3.1,
+17-02-2015,27-02-2015,Business,Cary,Durham,10.5,Meeting
+22-02-2013,01-03-2013,Business,Durham,Morrisville,8.1,
+25-06-2015,05-07-2015,Business,Morrisville,Cary,3.1,
+22-07-2017,24-07-2017,Business,Whitebridge,Parkway,2.1,Meeting
+31-10-2014,10-11-2014,Business,Cary,Morrisville,4.3,
+01-10-2011,10-10-2011,Business,Morrisville,Cary,2.5,Meal/Entertain
+01-08-2015,06-08-2015,Business,Cary,Raleigh,20.6,
+14-03-2019,20-03-2019,Business,Raleigh,Cary,17.6,
+07-02-2011,15-02-2011,Business,Cary,Apex,5.6,
+14-10-2012,20-10-2012,Business,Apex,Apex,3.3,
+01-12-2016,08-12-2016,Business,Apex,Cary,5.3,
+03-09-2014,11-09-2014,Business,Whitebridge,Edgehill Farms,3.3,
+06-11-2014,16-11-2014,Business,Edgehill Farms,Whitebridge,3.3,
+20-04-2017,21-04-2017,Business,Cary,Morrisville,7.9,Temporary Site
+03-10-2013,07-10-2013,Business,Oakland,Emeryville,13,
+10-04-2013,10-04-2013,Business,Emeryville,Berkeley,3,
+27-02-2016,05-03-2016,Business,Berkeley,Emeryville,3,
+11-01-2011,19-01-2011,Business,Emeryville,Oakland,3.8,
+21-12-2014,21-12-2014,Business,Oakland,San Francisco,9.5,
+05-02-2017,09-02-2017,Business,SOMISSPO,French Quarter,1.7,
+14-06-2011,23-06-2011,Business,San Francisco,Berkeley,10.8,
+01-06-2016,02-06-2016,Business,West Berkeley,North Berkeley Hills,4.1,
+01-05-2010,05-05-2010,Business,North Berkeley Hills,Southside,2.2,
+26-06-2019,27-06-2019,Business,Berkeley,Emeryville,4.6,
+15-12-2013,22-12-2013,Business,Emeryville,Berkeley,3.1,
+18-06-2010,20-06-2010,Business,Berkeley,San Jose,47.7,
+14-03-2014,24-03-2014,Business,San Jose,Emeryville,44.6,
+11-08-2014,16-08-2014,Business,Emeryville,Oakland,13.2,
+16-10-2011,20-10-2011,Business,Morrisville,Cary,8.7,
+17-04-2018,25-04-2018,Business,Cary,Raleigh,17.2,
+06-10-2018,16-10-2018,Business,Raleigh,Cary,14,
+18-03-2020,19-03-2020,Business,Cary,Raleigh,28.1,
+31-05-2010,09-06-2010,Business,Raleigh,Cary,28.2,
+08-05-2015,18-05-2015,Business,Cary,Morrisville,3.1,Meal/Entertain
+02-06-2010,03-06-2010,Business,Morrisville,Cary,3.1,Customer Visit
+01-07-2020,07-07-2020,Business,Cary,Durham,16.4,
+17-06-2010,26-06-2010,Business,Durham,Morrisville,15.4,
+02-11-2011,07-11-2011,Business,Morrisville,Cary,2.2,
+15-06-2010,19-06-2010,Business,Cary,Apex,11.2,
+30-04-2017,10-05-2017,Business,Apex,Eagle Rock,2.2,
+12-04-2014,16-04-2014,Business,Eagle Rock,Cary,3.6,
+14-12-2020,22-12-2020,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+04-02-2017,09-02-2017,Business,Savon Height,Parkway,4.9,
+26-06-2020,06-07-2020,Business,Parkway,Whitebridge,8.7,Errand/Supplies
+05-06-2018,13-06-2018,Business,Whitebridge,Parkway,2.1,Meeting
+26-07-2013,03-08-2013,Business,Parkway,Whitebridge,2.1,
+10-01-2011,20-01-2011,Business,Cary,Morrisville,8.4,Meeting
+16-03-2019,22-03-2019,Business,Morrisville,Morrisville,5.9,
+28-11-2013,02-12-2013,Business,Huntington Woods,Huntington Woods,12.1,
+16-07-2018,18-07-2018,Business,Huntington Woods,Weston,3.9,
+25-10-2012,26-10-2012,Business,Morrisville,Cary,6.2,
+02-04-2020,04-04-2020,Business,Cary,Durham,10.4,Meeting
+29-04-2010,09-05-2010,Business,Durham,Cary,9.9,Meeting
+09-07-2017,09-07-2017,Business,Cary,Winston Salem,107,Meeting
+17-08-2014,26-08-2014,Business,Winston Salem,Asheville,133.6,Meeting
+14-02-2018,17-02-2018,Business,Asheville,Topton,91.8,Meeting
+28-11-2013,30-11-2013,Business,Topton,Hayesville,40.7,Meeting
+26-05-2018,03-06-2018,Business,Hayesville,Topton,75.7,
+27-09-2019,29-09-2019,Business,Topton,Bryson City,29.8,
+19-12-2015,21-12-2015,Business,Bryson City,Bryson City,16.3,
+09-03-2015,12-03-2015,Business,Bryson City,Bryson City,6.5,
+04-09-2010,10-09-2010,Business,Bryson City,Bryson City,6.3,
+12-10-2015,14-10-2015,Business,Bryson City,Almond,6.6,
+01-09-2018,09-09-2018,Business,Almond,Bryson City,15.2,
+22-10-2011,01-11-2011,Business,Bryson City,Asheville,68.4,
+10-01-2015,10-01-2015,Business,Asheville,Mebane,195.9,
+14-01-2019,24-01-2019,Business,Mebane,Cary,45.2,
+01-10-2019,06-10-2019,Business,Cary,Morrisville,3.2,
+30-10-2017,03-11-2017,Business,Morrisville,Raleigh,10.3,
+11-10-2014,11-10-2014,Business,Raleigh,Cary,13.1,
+23-08-2010,28-08-2010,Business,Savon Height,Whitebridge,9.6,Errand/Supplies
+15-03-2013,25-03-2013,Business,Cary,Durham,16.5,
+20-05-2018,26-05-2018,Business,Durham,Cary,12.8,
+09-02-2014,13-02-2014,Business,Whitebridge,Whitebridge,1.2,
+26-01-2010,26-01-2010,Business,Whitebridge,Whitebridge,1,
+03-01-2016,03-01-2016,Business,Whitebridge,Whitebridge,4.1,
+11-11-2019,18-11-2019,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain
+11-01-2016,18-01-2016,Business,Whitebridge,Westpark Place,1.4,
+09-05-2014,16-05-2014,Business,Westpark Place,Whitebridge,1.8,
+25-05-2015,04-06-2015,Business,Cary,Morrisville,8.5,Meeting
+13-03-2010,22-03-2010,Business,Morrisville,Morrisville,5,
+02-04-2013,06-04-2013,Business,Morrisville,Cary,3.8,
+18-05-2014,27-05-2014,Business,Whitebridge,Hazelwood,2.5,
+20-03-2016,27-03-2016,Business,Hazelwood,Whitebridge,2.4,
+06-12-2013,15-12-2013,Business,Whitebridge,Westpark Place,1.4,
+18-05-2011,25-05-2011,Business,Westpark Place,Whitebridge,1.8,
+12-09-2014,15-09-2014,Business,Cary,Morrisville,3.1,Meal/Entertain
+13-10-2015,20-10-2015,Business,Morrisville,Cary,3.1,Customer Visit
+11-06-2015,15-06-2015,Business,Cary,Morrisville,7.9,Temporary Site
+12-08-2011,20-08-2011,Business,San Jose,Santa Clara,3.8,
+01-05-2019,08-05-2019,Business,Agnew,Cory,4.3,
+04-07-2020,06-07-2020,Business,Cory,Agnew,3.9,
+03-08-2018,03-08-2018,Business,Agnew,Renaissance,2.2,
+22-01-2014,28-01-2014,Business,Renaissance,Agnew,2.8,
+24-12-2017,26-12-2017,Business,Agnew,Agnew,2.2,
+19-06-2014,26-06-2014,Business,Agnew,Renaissance,2.4,
+25-07-2010,28-07-2010,Business,Renaissance,Agnew,2.8,Meeting
+02-12-2018,03-12-2018,Business,Santa Clara,Berkeley,43.9,Customer Visit
+27-06-2014,27-06-2014,Business,Downtown,West Berkeley,1.8,
+25-04-2019,27-04-2019,Business,West Berkeley,Central,3.3,
+04-05-2014,11-05-2014,Business,Berkeley,San Francisco,11.8,Between Offices
+16-01-2017,20-01-2017,Business,San Francisco,Berkeley,13.2,Between Offices
+05-11-2017,08-11-2017,Business,Berkeley,San Francisco,12.2,Between Offices
+23-03-2020,27-03-2020,Business,San Francisco,Berkeley,11.3,Meeting
+23-11-2019,26-11-2019,Business,Berkeley,Emeryville,3.6,
+09-07-2015,13-07-2015,Business,Emeryville,Berkeley,3,
+04-01-2011,05-01-2011,Business,Berkeley,San Francisco,11.4,
+15-11-2020,16-11-2020,Business,NOMA,Downtown,0.9,
+28-10-2019,30-10-2019,Business,Downtown,Sunnyside,6.2,
+06-12-2014,16-12-2014,Business,Sunnyside,Ingleside,0.7,
+17-06-2019,26-06-2019,Business,Ingleside,Potrero Flats,5.5,Meeting
+23-11-2015,23-11-2015,Business,San Francisco,Oakland,12.7,Customer Visit
+26-09-2019,27-09-2019,Business,Oakland,Berkeley,2.6,
+05-05-2012,14-05-2012,Business,Central,Central,1.1,
+30-03-2018,30-03-2018,Business,Berkeley,San Francisco,12.6,Temporary Site
+02-12-2012,09-12-2012,Business,Tenderloin,SOMISSPO,1.2,
+21-12-2017,26-12-2017,Business,SOMISSPO,Tenderloin,1.1,
+01-11-2015,03-11-2015,Business,San Francisco,Oakland,9.9,Temporary Site
+19-01-2012,29-01-2012,Business,Oakland,Berkeley,6,Meeting
+06-11-2015,09-11-2015,Business,West Berkeley,Central,0.8,
+18-05-2012,20-05-2012,Business,Berkeley,Menlo Park,45.9,Customer Visit
+22-07-2017,25-07-2017,Business,Menlo Park,Palo Alto,4,
+19-08-2019,21-08-2019,Business,Palo Alto,Menlo Park,2.5,
+22-07-2017,31-07-2017,Business,Menlo Park,Berkeley,36.6,Customer Visit
+01-10-2014,07-10-2014,Business,Central,College Avenue,2.9,
+24-01-2011,03-02-2011,Business,College Avenue,Central,2.6,
+13-02-2011,14-02-2011,Business,Central,South,2.3,
+13-05-2017,22-05-2017,Business,South,Downtown,6.4,
+27-01-2012,05-02-2012,Business,Downtown,Central,1.4,
+05-07-2013,11-07-2013,Business,Central,West Berkeley,0.6,
+04-06-2020,04-06-2020,Business,West Berkeley,South,5.9,Meeting
+16-07-2016,26-07-2016,Business,South,Southwest Berkeley,0.8,
+13-06-2015,15-06-2015,Business,Berkeley,Emeryville,1.3,
+26-01-2014,02-02-2014,Business,Emeryville,Berkeley,3.7,Errand/Supplies
+28-09-2011,29-09-2011,Business,Central,Central,2.3,
+04-06-2011,08-06-2011,Business,Central,Central,2.6,
+25-06-2020,02-07-2020,Business,Central,Southside,1.9,
+14-12-2014,22-12-2014,Business,Southside,West Berkeley,2.1,
+25-03-2019,01-04-2019,Business,West Berkeley,Southside,4,Meeting
+25-10-2013,26-10-2013,Business,Southside,South Berkeley,0.9,
+29-11-2018,29-11-2018,Business,South Berkeley,Southside,0.9,
+23-10-2013,29-10-2013,Business,Southside,Central,2.4,
+19-01-2020,26-01-2020,Business,Central,Southside,1.9,
+27-08-2018,27-08-2018,Business,Southside,Central,1.9,
+23-05-2013,25-05-2013,Business,Berkeley,Mountain View,44.6,Customer Visit
+10-01-2018,10-01-2018,Business,Mountain View,Berkeley,43.6,Customer Visit
+22-05-2013,28-05-2013,Business,Berkeley,Emeryville,2.5,
+03-10-2020,11-10-2020,Business,Emeryville,Berkeley,3.7,Errand/Supplies
+03-08-2011,07-08-2011,Business,Berkeley,Oakland,5.1,
+02-03-2013,09-03-2013,Business,Oakland,San Francisco,9.7,Temporary Site
+20-08-2017,28-08-2017,Business,San Francisco,Berkeley,11.8,Temporary Site
+27-11-2015,28-11-2015,Business,Berkeley,El Cerrito,2.3,Temporary Site
+08-09-2014,11-09-2014,Business,El Cerrito,Berkeley,3.1,Meal/Entertain
+03-09-2018,12-09-2018,Business,Berkeley,Oakland,16.3,Customer Visit
+21-01-2010,25-01-2010,Business,Cary,Morrisville,3.1,Meal/Entertain
+21-12-2020,29-12-2020,Business,Morrisville,Cary,5.2,Meal/Entertain
+16-11-2016,25-11-2016,Business,Krendle Woods,Whitebridge,6.1,Meeting
+27-04-2015,06-05-2015,Business,Cary,Durham,10.3,Meeting
+18-04-2014,21-04-2014,Business,Durham,Cary,10.5,Meeting
+04-08-2019,12-08-2019,Business,Cary,Cary,1.5,
+13-07-2010,13-07-2010,Business,Cary,Cary,1.8,
+29-07-2010,07-08-2010,Business,Cary,Apex,5.4,Errand/Supplies
+30-01-2012,06-02-2012,Business,Apex,Cary,5.4,Customer Visit
+27-04-2018,27-04-2018,Business,Cary,Cary,39.2,Between Offices
+25-05-2019,25-05-2019,Business,Cary,Cary,6.4,Customer Visit
+19-11-2018,28-11-2018,Business,Cary,Cary,2.7,Meeting
+17-04-2016,23-04-2016,Business,Cary,Cary,18.5,Errand/Supplies
+13-09-2014,21-09-2014,Business,Cary,Cary,2.5,Meal/Entertain
+05-06-2015,15-06-2015,Business,Cary,Cary,2.1,Meal/Entertain
+03-04-2010,11-04-2010,Business,Cary,Unknown Location,6.7,Errand/Supplies
+11-04-2019,12-04-2019,Business,Unknown Location,Morrisville,3.5,Meal/Entertain
+09-12-2015,14-12-2015,Business,Morrisville,Cary,3.4,Errand/Supplies
+24-10-2012,03-11-2012,Business,Cary,Cary,5.5,Meeting
+09-01-2018,18-01-2018,Business,Cary,Cary,4.1,Meeting
+18-11-2011,27-11-2011,Business,Cary,Cary,12.7,Customer Visit
+08-10-2014,17-10-2014,Business,Cary,Morrisville,3,Meal/Entertain
+13-05-2019,18-05-2019,Business,Morrisville,Cary,3.5,Customer Visit
+21-03-2018,28-03-2018,Business,Cary,Cary,5.9,Meal/Entertain
+05-12-2018,05-12-2018,Business,Cary,Cary,1.9,
+19-08-2020,28-08-2020,Business,Cary,Cary,3.3,
+03-08-2011,08-08-2011,Business,Cary,Cary,1.3,
+22-08-2014,31-08-2014,Business,Cary,Durham,10.3,Meeting
+23-09-2017,29-09-2017,Business,Durham,Cary,11.1,Meeting
+21-11-2017,28-11-2017,Business,Cary,Cary,1.4,
+23-05-2010,27-05-2010,Business,Cary,Apex,5.1,Meeting
+29-04-2019,01-05-2019,Business,Apex,Holly Springs,9,Meeting
+27-02-2011,06-03-2011,Business,Holly Springs,Cary,13.3,Between Offices
+15-02-2010,16-02-2010,Business,Cary,Cary,2.5,Errand/Supplies
+24-07-2018,01-08-2018,Business,Cary,Morrisville,3.3,Meal/Entertain
+24-11-2016,04-12-2016,Business,Morrisville,Cary,2.9,
+09-03-2010,15-03-2010,Business,Cary,Raleigh,8.5,Customer Visit
+10-10-2011,12-10-2011,Business,Raleigh,Morrisville,6.7,Temporary Site
+18-07-2014,22-07-2014,Business,Morrisville,Cary,3.1,
+01-08-2015,04-08-2015,Business,Cary,Cary,5.5,Meeting
+13-12-2019,21-12-2019,Business,Cary,Cary,5.5,Errand/Supplies
+15-06-2013,15-06-2013,Business,Cary,Morrisville,2.9,Meal/Entertain
+12-09-2016,22-09-2016,Business,Morrisville,Cary,2.9,Customer Visit
+10-01-2019,14-01-2019,Business,Cary,Apex,5.1,Meal/Entertain
+26-12-2010,31-12-2010,Business,Apex,Cary,5.3,Customer Visit
+27-08-2010,30-08-2010,Business,Cary,Morrisville,3.3,Meal/Entertain
+26-12-2011,30-12-2011,Business,Morrisville,Cary,3,Customer Visit
+23-01-2010,31-01-2010,Business,Cary,Wake Co.,6.6,Errand/Supplies
+12-06-2012,19-06-2012,Business,Wake Co.,Morrisville,1.8,
+29-11-2014,06-12-2014,Business,Morrisville,Cary,3,Customer Visit
+22-08-2015,27-08-2015,Business,Cary,Morrisville,2.9,Meal/Entertain
+10-08-2015,16-08-2015,Business,Morrisville,Cary,3.4,Customer Visit
+09-10-2016,11-10-2016,Business,Cary,Cary,4.1,
+17-11-2017,27-11-2017,Business,Cary,Cary,3.8,Meal/Entertain
+24-04-2017,30-04-2017,Business,Cary,Cary,6.6,Meeting
+06-12-2010,13-12-2010,Business,Cary,Cary,4,Meeting
+30-10-2010,04-11-2010,Business,Cary,Cary,7,Customer Visit
+02-12-2018,04-12-2018,Business,Cary,Cary,6.9,Meal/Entertain
+01-12-2015,10-12-2015,Business,Cary,Cary,3.4,Errand/Supplies
+21-06-2012,26-06-2012,Business,Cary,Cary,3.4,Errand/Supplies
+04-09-2011,04-09-2011,Business,Cary,Cary,2,Meeting
+20-09-2014,30-09-2014,Business,Cary,Cary,2,Errand/Supplies
+29-08-2011,08-09-2011,Business,Cary,Apex,5.1,Errand/Supplies
+28-07-2012,01-08-2012,Business,Apex,Cary,8.8,Temporary Site
+03-11-2012,13-11-2012,Business,Cary,Cary,5.6,Meeting
+23-02-2011,01-03-2011,Business,Cary,Cary,18.9,Customer Visit
+30-09-2012,10-10-2012,Business,Cary,Fuquay-Varina,15.6,Meeting
+01-10-2011,10-10-2011,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies
+28-08-2018,28-08-2018,Business,Cary,Morrisville,3,Meal/Entertain
+08-03-2015,13-03-2015,Business,Morrisville,Cary,3.1,Customer Visit
+10-04-2016,17-04-2016,Business,Cary,Morrisville,3,Meal/Entertain
+28-05-2017,03-06-2017,Business,Morrisville,Cary,4.8,Errand/Supplies
+26-08-2020,26-08-2020,Business,Cary,Cary,2.1,Errand/Supplies
+06-02-2015,14-02-2015,Business,Cary,Cary,3.1,Errand/Supplies
+23-09-2016,27-09-2016,Business,Cary,Apex,4.4,Meal/Entertain
+28-03-2019,04-04-2019,Business,Apex,Cary,4.7,Customer Visit
+21-10-2016,31-10-2016,Business,Cary,Morrisville,3,Meal/Entertain
+21-02-2011,28-02-2011,Business,Morrisville,Cary,3,Customer Visit
+24-01-2016,26-01-2016,Business,Cary,Cary,4.2,Errand/Supplies
+22-11-2013,28-11-2013,Business,Cary,Cary,4.1,Meal/Entertain
+24-09-2020,02-10-2020,Business,Cary,Cary,3.4,
+10-12-2015,14-12-2015,Business,Cary,Cary,3.3,
+18-04-2016,26-04-2016,Business,Cary,Morrisville,3,Meal/Entertain
+03-08-2020,08-08-2020,Business,Morrisville,Cary,3.1,Customer Visit
+28-05-2014,29-05-2014,Business,Cary,Morrisville,10.6,Meeting
+26-12-2019,04-01-2020,Business,Unknown Location,Unknown Location,4.8,Airport/Travel
+04-06-2016,07-06-2016,Business,Unknown Location,Unknown Location,5.3,Temporary Site
+05-03-2016,11-03-2016,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies
+18-07-2012,28-07-2012,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies
+25-01-2012,03-02-2012,Business,Unknown Location,Unknown Location,9.2,
+20-03-2017,20-03-2017,Business,Unknown Location,Islamabad,7.7,Errand/Supplies
+17-05-2020,22-05-2020,Business,Islamabad,Rawalpindi,5.9,Temporary Site
+28-03-2012,28-03-2012,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies
+26-10-2015,01-11-2015,Business,Unknown Location,Unknown Location,1.3,
+23-12-2012,24-12-2012,Business,Unknown Location,Unknown Location,2.5,
+07-02-2020,08-02-2020,Business,Unknown Location,Unknown Location,5.3,
+23-08-2019,30-08-2019,Business,Unknown Location,Unknown Location,5.4,
+30-11-2015,03-12-2015,Business,Unknown Location,Rawalpindi,10.2,Customer Visit
+21-09-2013,30-09-2013,Business,Rawalpindi,Islamabad,7.2,Customer Visit
+18-05-2020,23-05-2020,Business,Islamabad,Unknown Location,2.2,
+10-06-2020,13-06-2020,Business,Unknown Location,Unknown Location,11,Meeting
+02-12-2018,09-12-2018,Business,Unknown Location,Rawalpindi,12,
+28-03-2016,06-04-2016,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies
+14-05-2010,14-05-2010,Business,Rawalpindi,Unknown Location,19.4,Meeting
+21-11-2017,21-11-2017,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies
+23-05-2011,02-06-2011,Business,Unknown Location,Islamabad,5.7,Temporary Site
+15-10-2017,23-10-2017,Business,Islamabad,Islamabad,1.8,Errand/Supplies
+01-03-2019,07-03-2019,Business,Islamabad,Islamabad,1.4,Errand/Supplies
+01-11-2017,06-11-2017,Business,Islamabad,Unknown Location,10.3,Customer Visit
+02-08-2011,07-08-2011,Business,Unknown Location,Unknown Location,11.5,Meeting
+24-12-2015,25-12-2015,Business,Unknown Location,Islamabad,4.9,Errand/Supplies
+16-01-2011,26-01-2011,Business,Islamabad,Unknown Location,3.5,Meal/Entertain
+20-04-2010,20-04-2010,Business,Unknown Location,Unknown Location,16.2,Meeting
+15-07-2011,17-07-2011,Business,Unknown Location,Unknown Location,2,Errand/Supplies
+14-07-2016,17-07-2016,Business,Unknown Location,Islamabad,2.1,Errand/Supplies
+04-01-2018,13-01-2018,Business,Islamabad,Islamabad,2.1,Meeting
+21-12-2013,22-12-2013,Business,Islamabad,Unknown Location,7.2,Customer Visit
+29-08-2011,31-08-2011,Business,Unknown Location,Rawalpindi,12,Meeting
+04-05-2018,09-05-2018,Business,Rawalpindi,Unknown Location,103,Meeting
+20-07-2020,23-07-2020,Business,Unknown Location,Unknown Location,32.3,Meeting
+23-10-2018,31-10-2018,Business,Unknown Location,Unknown Location,5.3,Customer Visit
+19-09-2014,21-09-2014,Business,Unknown Location,Unknown Location,11.6,Meeting
+24-01-2012,26-01-2012,Business,Unknown Location,Unknown Location,23.2,Meeting
+30-11-2012,09-12-2012,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+28-05-2010,30-05-2010,Business,Unknown Location,Unknown Location,12.3,Temporary Site
+09-03-2013,13-03-2013,Business,Unknown Location,Lahore,14,Meeting
+07-04-2016,15-04-2016,Business,Lahore,Lahore,2.1,Meal/Entertain
+20-10-2020,23-10-2020,Business,Lahore,Lahore,2.1,Customer Visit
+06-04-2012,14-04-2012,Business,Lahore,Lahore,3,Meeting
+28-02-2017,08-03-2017,Business,Lahore,Unknown Location,6.2,Meeting
+28-08-2017,05-09-2017,Business,Unknown Location,Unknown Location,9.6,Meeting
+01-10-2020,02-10-2020,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies
+31-12-2012,07-01-2013,Business,Unknown Location,Lahore,7.1,Meal/Entertain
+06-03-2012,10-03-2012,Business,Lahore,Unknown Location,6.3,Meal/Entertain
+18-10-2017,26-10-2017,Business,Unknown Location,Lahore,10.7,Meal/Entertain
+22-11-2016,01-12-2016,Business,Lahore,Lahore,5.3,Meal/Entertain
+30-01-2013,30-01-2013,Business,Lahore,Lahore,1.6,Errand/Supplies
+01-08-2018,08-08-2018,Business,Lahore,Lahore,3.6,Errand/Supplies
+13-06-2014,23-06-2014,Business,Lahore,Lahore,1.7,Errand/Supplies
+18-11-2011,26-11-2011,Business,Lahore,Lahore,2.9,Meal/Entertain
+03-01-2017,09-01-2017,Business,Lahore,Lahore,0.6,Errand/Supplies
+21-09-2020,01-10-2020,Business,Lahore,Lahore,0.6,Errand/Supplies
+23-10-2015,27-10-2015,Business,Lahore,Lahore,2.3,Meal/Entertain
+13-01-2016,16-01-2016,Business,Lahore,Lahore,2.3,Meal/Entertain
+03-10-2010,04-10-2010,Business,Lahore,Lahore,3.2,Meal/Entertain
+15-09-2020,22-09-2020,Business,Lahore,Lahore,6.2,Customer Visit
+04-08-2018,04-08-2018,Business,Lahore,Lahore,7.7,Customer Visit
+12-02-2018,13-02-2018,Business,Lahore,Lahore,3.8,Customer Visit
+01-07-2015,07-07-2015,Business,Lahore,Unknown Location,7.9,Meeting
+21-08-2017,29-08-2017,Business,Kar?chi,Kar?chi,4.9,Temporary Site
+21-10-2019,31-10-2019,Business,Kar?chi,Kar?chi,5,Meal/Entertain
+13-01-2018,13-01-2018,Business,Kar?chi,Kar?chi,0.6,Meal/Entertain
+03-05-2018,11-05-2018,Business,Kar?chi,Unknown Location,3.1,Customer Visit
+16-10-2017,24-10-2017,Business,Unknown Location,Kar?chi,7.9,Meeting
+06-04-2018,16-04-2018,Business,Kar?chi,Kar?chi,5.5,Customer Visit
+15-03-2013,24-03-2013,Business,Kar?chi,Unknown Location,10.3,Meal/Entertain
+22-08-2019,22-08-2019,Business,Unknown Location,Kar?chi,10.4,Errand/Supplies
+24-03-2019,31-03-2019,Business,Kar?chi,Kar?chi,2,Errand/Supplies
+28-12-2018,06-01-2019,Business,Kar?chi,Unknown Location,8.5,Meal/Entertain
+26-12-2017,31-12-2017,Business,Unknown Location,Kar?chi,4.4,Errand/Supplies
+21-07-2010,30-07-2010,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+15-09-2017,17-09-2017,Business,Kar?chi,Kar?chi,5.1,Errand/Supplies
+01-07-2016,05-07-2016,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+23-01-2017,24-01-2017,Business,Kar?chi,Unknown Location,11.6,Meal/Entertain
+26-10-2016,31-10-2016,Business,Unknown Location,Kar?chi,11.9,Meal/Entertain
+06-07-2016,07-07-2016,Business,Kar?chi,Kar?chi,1.4,Errand/Supplies
+13-02-2011,13-02-2011,Business,Kar?chi,Kar?chi,1.1,Errand/Supplies
+24-09-2016,26-09-2016,Business,Kar?chi,Kar?chi,4.1,Airport/Travel
+11-02-2019,17-02-2019,Business,Kar?chi,Kar?chi,6.1,Between Offices
+25-12-2011,04-01-2012,Business,Kar?chi,Kar?chi,1.3,Errand/Supplies
+16-01-2014,18-01-2014,Business,Kar?chi,Unknown Location,3,Meal/Entertain
+28-08-2016,03-09-2016,Business,Unknown Location,Kar?chi,4.1,Customer Visit
+13-10-2012,15-10-2012,Business,Kar?chi,Kar?chi,7.2,Meeting
+13-07-2016,21-07-2016,Business,Kar?chi,Unknown Location,6.4,
+08-07-2011,13-07-2011,Business,Unknown Location,Kar?chi,12.9,Meeting
+12-12-2019,19-12-2019,Business,Kar?chi,Kar?chi,2.8,Errand/Supplies
+16-08-2016,22-08-2016,Business,Kar?chi,Kar?chi,2.9,Errand/Supplies
+25-08-2016,28-08-2016,Business,Kar?chi,Kar?chi,4.6,Errand/Supplies
+25-03-2013,26-03-2013,Business,Kar?chi,Kar?chi,4.6,Meeting
+26-02-2015,05-03-2015,Business,Kar?chi,Kar?chi,0.8,Customer Visit
+12-08-2011,14-08-2011,Business,Kar?chi,Kar?chi,0.7,Meeting
+19-03-2011,29-03-2011,Business,Kar?chi,Unknown Location,3.9,Temporary Site
+27-05-2010,27-05-2010,Business,Unknown Location,Unknown Location,16.2,Meeting
+29-09-2014,04-10-2014,Business,Katunayake,Gampaha,6.4,Temporary Site
+04-01-2015,12-01-2015,Business,Gampaha,Ilukwatta,48.2,Temporary Site
